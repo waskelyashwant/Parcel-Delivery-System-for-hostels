@@ -1,0 +1,5 @@
+From:IITJ Courier Management System<iitjcouriermanagement@gmail.com>
+To:'Dear Customer' <khokar.1@iitj.ac.in>
+Subject: Parcel CheckIn
+There is a parcel for you with Parcel Id 233456312. Use 1187 as OTP during checkout. 
+ This is automatically genrated e-mail, Don't reply to it.
