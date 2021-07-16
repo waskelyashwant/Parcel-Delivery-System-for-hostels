@@ -1,0 +1,2 @@
+# Parcel_Delivery_System_for_Hostels
+This project deals with courier management. This system deals with accepting of the parcel, informing the receiver, so that he/she can collect it from a central place for all couriers. This system is mainly intended to use in institute campuses and is aimed to handle all the couriers that are to be delivered in campus, store them in a central place according to parcel ID and notify the receiver about the parcel so, that he/she can come and collect it from central place as per his/her convenience.
